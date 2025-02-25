@@ -18,7 +18,7 @@ The Vision OS Version is not available in the App Store, to download the latest 
 ## Features
 
 * Curved Screen Support (Reality Kit Mode)
-    ** To actiavte change the Renderer in settings to Reality Kit (note mouse and keyboard not supported in this mode at the moment)
+    * To actiavte change the Renderer in settings to Reality Kit (note mouse and keyboard not supported in this mode at the moment)
 
 ![Curved Screen Support](https://preview.redd.it/moonlight-xros-1-year-anniversary-update-curved-screen-v0-xyro5aozeyge1.jpg?width=2254&format=pjpg&auto=webp&s=df631301423de93f161111df41543154e8fd5b04)
 

@@ -103,6 +103,18 @@ struct UpdatesView: View {
 
                 Section(header: Text("Noted Bugs")) { // Section for older updates
                     VStack(alignment: .leading) {
+                        Text("- Bug in main menu where volume handle disappears and you can’t close it UI Kit and Reality Kit switching sometimes loses audio completely")
+                            .font(.body)
+                            .foregroundColor(.white)
+                        Text("-UI Kit and Reality Kit switching sometimes loses audio completely. This might be due to certain games and the apollo virtual display driver though")
+                            .font(.body)
+                            .foregroundColor(.white)
+                        Text("- Bug when trying to connect and wifi is connected but there is not actually network (or during a failed wifi connection)")
+                            .font(.body)
+                            .foregroundColor(.white)
+                        Text("- Reality Kit error connection window disappears too fast and shows an empty volume.")
+                            .font(.body)
+                            .foregroundColor(.white)
                         Text("- Sometimes selecting a differing computer host doesn't load the app data, you may have to go back to the settings tab and back to refresh it.")
                             .font(.body)
                             .foregroundColor(.white)
